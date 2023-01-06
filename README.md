@@ -12,3 +12,5 @@ The repo contains the following files:
 - app.py: For REST API function
 - output.png: Screenshot of the curl command and its output
 - Dockerfile: Dockerfile created 
+
+The .tar file for docker was of 1.5 GB
